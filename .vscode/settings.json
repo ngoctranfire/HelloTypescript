@@ -1,0 +1,12 @@
+{
+    "tsimporter.disabled": false,
+    "tsimporter.doubleQuotes": true,
+    "tsimporter.emitSemicolon": true,
+    "tsimporter.showNotifications": true,
+    "tsimporter.spaceBetweenBraces": true,
+    "tsimporter.filesToScan": [
+        "**/*.ts",
+        "**/*.tsx"
+    ]
+
+}
